@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Twitter auto refresh by @kzxedweb",
+    "version": "49.3",
+    "description": "twitter --> @kzxedweb merci les bg je vous aime <3",
+    "permissions": [
+        "activeTab"
+    ],
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://twitter.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
