@@ -39,6 +39,6 @@ setInterval(function () {
 
     console.clear()
     console.log('Le script du goat fait son taff')
-    console.log('@kzxedweb')
+    console.log('@blablachouine')
 
 }, 1000);
