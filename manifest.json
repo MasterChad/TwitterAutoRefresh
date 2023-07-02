@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Twitter auto refresh by @blablachouine",
     "version": "49.3",
-    "description": "twitter --> @kzxedweb merci les bg je vous aime <3",
+    "description": "twitter --> @blablachouine merci les bg je vous aime <3",
     "permissions": [
         "activeTab"
     ],
